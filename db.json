@@ -41,4 +41,1235 @@
       "Name": "Banco Davivienda"
     }       
   ]
+},
+{
+  "RegionCity": [
+    {
+      "RegionId": "Region10000",
+      "Name": "Amazonas",
+      "City": [
+        {
+          "CityId": "City10001",
+          "Name": "Leticia",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "CityCity10002",
+          "Name": "Puerto Nariño",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "CityCity10003",
+          "Name": "El Encanto",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "CityCity10004",
+          "Name": "La Chorrera",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "CityCity10005",
+          "Name": "La Pedrera",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "CityCity10006",
+          "Name": "Mirití",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "CityCity10007",
+          "Name": "Santander",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "CityCity10008",
+          "Name": "Tarapacá",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "City10009",
+          "Name": "Puerto Alegría",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "City10010",
+          "Name": "Puerto Arica",
+          "Category": "Corregimiento Departamental"
+        },
+        {
+          "CityId": "City10011",
+          "Name": "La Victoria",
+          "Category": "Corregimiento Departamental"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region20000",
+      "Name": "Antioquia",
+      "City": [
+          {
+            "CityId": "City20001",
+            "Name": "Medellín",
+            "Category": "Capital del Municipio"
+          },
+          {
+            "CityId": "City20002",
+            "Name": "Cáceres",
+            "Category": "Municipio"
+          },
+          {
+            "CityId": "City20003",
+            "Name": "Caucasia",
+            "Category": "Municipio"
+          },
+          {
+            "CityId": "City20004",
+            "Name": "El Bagre",
+            "Category": "Municipio"
+          },
+          {
+            "CityId": "City20005",
+            "Name": "Nechí",
+            "Category": "Municipio"
+          },
+          {
+            "CityId": "City20006",
+            "Name": "Tarazá",
+            "Category": "Municipio"
+          },
+          {
+            "CityId": "City20007",
+            "Name": "Zaragoza",
+            "Category": "Municipio"
+          }
+      ]
+    },
+    {
+      "RegionId": "Region30000",
+      "Name": "Arauca",
+      "City": [
+        {
+          "CityId": "City30001",
+          "Name": "Arauca",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City30002",
+          "Name": "Arauquita",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City30003",
+          "Name": "Cravo Norte",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City30004",
+          "Name": "Fortul",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City30005",
+          "Name": "Puerto Rondón",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City30006",
+          "Name": "Saravena",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City30007",
+          "Name": "Tame",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region40000",
+      "Name": "Atlántico",
+      "City": [
+        {
+          "CityId": "City40001",
+          "Name": "Barranquilla",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City40002",
+          "Name": "Baranoa",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City40003",
+          "Name": "Campo de la Cruz",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City40004",
+          "Name": "Candelaria",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City40005",
+          "Name": "Galapa",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City40006",
+          "Name": "Juan de Acosta",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City40007",
+          "Name": "Luruaco",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region50000",
+      "Name": "Bolívar",
+      "City": [
+        {
+          "CityId": "City50001",
+          "Name": "Cartagena de Indias",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City50002",
+          "Name": "Achí",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City50003",
+          "Name": "Altos del Rosario",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City50004",
+          "Name": "Arena",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City50005",
+          "Name": "Arjona",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City50006",
+          "Name": "Arroyohondo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City50007",
+          "Name": "Barranco de Loba",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region60000",
+      "Name": "Boyacá",
+      "City": [
+        {
+          "CityId": "City60001",
+          "Name": "Tunja",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City60002",
+          "Name": "Almedida",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City60003",
+          "Name": "Aquitania",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City60004",
+          "Name": "Arcabuco",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City60005",
+          "Name": "Belén",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City60006",
+          "Name": "Berbeo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City60007",
+          "Name": "Beteitiva",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region70000",
+      "Name": "Caldas",
+      "City": [
+        {
+          "CityId": "City70001",
+          "Name": "Manizales",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City70002",
+          "Name": "Aguadas",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City70003",
+          "Name": "Anserma",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City70004",
+          "Name": "Aranzazul",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City70005",
+          "Name": "Belalcazar",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City70006",
+          "Name": "Chinchina",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City70007",
+          "Name": "Filadelfia",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region80000",
+      "Name": "Caquetá",
+      "City": [
+        {
+          "CityId": "City80001",
+          "Name": "Florencia",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City80002",
+          "Name": "Albanía",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City80003",
+          "Name": "Bele´n de los Andaquíes",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City80004",
+          "Name": "Cartagena del Chairá",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City80005",
+          "Name": "Curillo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City80006",
+          "Name": "El Doncello",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City80007",
+          "Name": "El Paujil",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region90000",
+      "Name": "Casanare",
+      "City": [
+        {
+          "CityId": "City90001",
+          "Name": "Yopal",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City90002",
+          "Name": "Aguazul",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City90003",
+          "Name": "Chameza",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City90004",
+          "Name": "Hato Corozal",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City90005",
+          "Name": "La Salina",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City90006",
+          "Name": "Maní",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City90007",
+          "Name": "Monterrey",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region100000",
+      "Name": "Cauca",
+      "City": [
+        {
+          "CityId": "City100001",
+          "Name": "Popayán",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City100002",
+          "Name": "Almaguer",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City100003",
+          "Name": "Argelía",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City100004",
+          "Name": "Balboa",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City100005",
+          "Name": "Bolívar",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City100006",
+          "Name": "Buenos Aires",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City100007",
+          "Name": "Cajibío",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region110000",
+      "Name": "Cesar",
+      "City": [
+        {
+          "CityId": "City110001",
+          "Name": "Valledupar",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City110002",
+          "Name": "Aguachica",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City110003",
+          "Name": "Agustín Codazzi",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City110004",
+          "Name": "Astrea",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City110005",
+          "Name": "Becerril",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City110006",
+          "Name": "Bosconia",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City110007",
+          "Name": "Chimichagua",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region120000",
+      "Name": "Chocó",
+      "City": [
+        {
+          "CityId": "City120001",
+          "Name": "Quibdó",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City120002",
+          "Name": "Acandí",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City120003",
+          "Name": "Alto Baudó",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City120004",
+          "Name": "Atrato",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City120005",
+          "Name": "Bagadó",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City120006",
+          "Name": "Bahía Solano",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City120007",
+          "Name": "Bajo Baudó",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region130000",
+      "Name": "Córdoba",
+      "City": [
+        {
+          "CityId": "City130001",
+          "Name": "Montería",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City130002",
+          "Name": "Ayapel",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City130003",
+          "Name": "Buenavista",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City130004",
+          "Name": "Canalete",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City130005",
+          "Name": "Cereté",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City130006",
+          "Name": "Chima",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City140007",
+          "Name": "Chinú",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region140000",
+      "Name": "Cundinamarca",
+      "City": [
+        {
+          "CityId": "City140001",
+          "Name": "Bogotá",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City140002",
+          "Name": "Agua de Dios",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City140003",
+          "Name": "Albán",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City140004",
+          "Name": "Anapoima",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City140005",
+          "Name": "Anolaima",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City140006",
+          "Name": "Arbeláez",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City140007",
+          "Name": "Beltrán",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region150000",
+      "Name": "Guainía",
+      "City": [
+        {
+          "CityId": "City150001",
+          "Name": "Puerto Inírida",
+          "Category": "Capital del Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region160000",
+      "Name": "Guaviare",
+      "City": [
+        {
+          "CityId": "City160001",
+          "Name": "San José del Guaviare",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City160002",
+          "Name": "Calamar",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City160003",
+          "Name": "El Retorno",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City160004",
+          "Name": "Miraflores",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region170000",
+      "Name": "Huila",
+      "City": [
+        {
+          "CityId": "City170001",
+          "Name": "Neiva",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City170002",
+          "Name": "Acevedo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City170003",
+          "Name": "Agrado",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City170004",
+          "Name": "Aipe",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City170005",
+          "Name": "Algeciras",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City170006",
+          "Name": "Altamira",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City170007",
+          "Name": "Baraya",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region180000",
+      "Name": "La Guajira",
+      "City": [
+        {
+          "CityId": "City180001",
+          "Name": "Riohacha",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City180002",
+          "Name": "Barrancas",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City180003",
+          "Name": "Dibulla",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City180004",
+          "Name": "Distracción",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City180005",
+          "Name": "El Molino",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City180006",
+          "Name": "Fonseca",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City180007",
+          "Name": "Hatonuevo",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region190000",
+      "Name": "Magdalena",
+      "City": [
+        {
+          "CityId": "City190001",
+          "Name": "Santa Marta",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City190002",
+          "Name": "Aracataca",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City190003",
+          "Name": "Ariguaní",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City190004",
+          "Name": "Cerro de san Antonio",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City190005",
+          "Name": "Chivolo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City190006",
+          "Name": "Ciénaga",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City190007",
+          "Name": "El Banco",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region200000",
+      "Name": "Meta",
+      "City": [
+        {
+          "CityId": "City200001",
+          "Name": "Villavicencio",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City200002",
+          "Name": "Acacias",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City200003",
+          "Name": "Barranca de Upía",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City200004",
+          "Name": "Cabuyaro",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City200005",
+          "Name": "Castilla la Nueva",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City200006",
+          "Name": "Cubarral",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City200007",
+          "Name": "Cumaral",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region210000",
+      "Name": "Nariño",
+      "City": [
+        {
+          "CityId": "City210001",
+          "Name": "Pasto",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City210002",
+          "Name": "Albán",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City210003",
+          "Name": "Aldana",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City210004",
+          "Name": "Ancuyá",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City210005",
+          "Name": "Arboleda",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City21006",
+          "Name": "Barbacoas",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City210007",
+          "Name": "Belén",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region220000",
+      "Name": "Norte de Santander",
+      "City": [
+        {
+          "CityId": "City220001",
+          "Name": "Cúcuta",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City220002",
+          "Name": "Abrego",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City220003",
+          "Name": "Arboledas",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City220004",
+          "Name": "Bochalema",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City220005",
+          "Name": "Bucarasica",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City220006",
+          "Name": "Cácota",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City220007",
+          "Name": "Cáchira",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region230000",
+      "Name": "Putumayo",
+      "City": [
+        {
+          "CityId": "City230001",
+          "Name": "Mocoa",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City230002",
+          "Name": "Colón",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City230003",
+          "Name": "Orito",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City230004",
+          "Name": "Puerto Asís",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City230005",
+          "Name": "Puerto Caicedo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City230006",
+          "Name": "Puerto Gúzman",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City230007",
+          "Name": "Puerto Leguízamo",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region240000",
+      "Name": "Quindio",
+      "City": [
+        {
+          "CityId": "City240001",
+          "Name": "Armenia",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City240002",
+          "Name": "Buenavista",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City240003",
+          "Name": "Calarcá",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City240004",
+          "Name": "Circasia",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City240005",
+          "Name": "Córdoba",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City240006",
+          "Name": "Filandia",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City240007",
+          "Name": "Génova",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region250000",
+      "Name": "Risaralda",
+      "City": [
+        {
+          "CityId": "City250001",
+          "Name": "Pereira",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City250002",
+          "Name": "Apía",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City250003",
+          "Name": "Balboa",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City250004",
+          "Name": "Belén de Umbría",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City250005",
+          "Name": "Dos Quebradas",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City250006",
+          "Name": "Guática",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City250007",
+          "Name": "La Celia",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region260000",
+      "Name": "San Andrés y Providencia",
+      "City": [
+        {
+          "CityId": "City260001",
+          "Name": "San Andrés",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City260002",
+          "Name": "Providencia",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region270000",
+      "Name": "Santander",
+      "City": [
+        {
+          "CityId": "City270001",
+          "Name": "Bucaramanga",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City270002",
+          "Name": "Aguada",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City270003",
+          "Name": "Albania",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City270004",
+          "Name": "Aratoca",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City270005",
+          "Name": "Barbosa",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City270006",
+          "Name": "Barichara",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City270007",
+          "Name": "Barrancabermeja",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region280000",
+      "Name": "Sucre",
+      "City": [
+        {
+          "CityId": "City280001",
+          "Name": "Sincelejo",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City280002",
+          "Name": "Buenavista",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City280003",
+          "Name": "Caimito",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City280004",
+          "Name": "Coloso",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City280005",
+          "Name": "Corozal",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City280006",
+          "Name": "Chalán",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City280007",
+          "Name": "Filadelfia",
+          "Category": "Galeras"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region290000",
+      "Name": "Tolima",
+      "City": [
+        {
+          "CityId": "City290001",
+          "Name": "Ibagué",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City290002",
+          "Name": "Alpujarra",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City290003",
+          "Name": "Alvarado",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City290004",
+          "Name": "Ambalema",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City290005",
+          "Name": "Anzóategui",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City290006",
+          "Name": "Armero",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City290007",
+          "Name": "Ataco",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region300000",
+      "Name": "Valle del Cauca",
+      "City": [
+        {
+          "CityId": "City300001",
+          "Name": "Cali",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City300002",
+          "Name": "Alcalá",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City300003",
+          "Name": "Andalucía",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City300004",
+          "Name": "Ansermanuevo",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City300005",
+          "Name": "Argelia",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City300006",
+          "Name": "Bolívar",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City300007",
+          "Name": "Buenaventura",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region310000",
+      "Name": "Vaupés",
+      "City": [
+        {
+          "CityId": "City310001",
+          "Name": "Mitú",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City310002",
+          "Name": "Carurú",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City310003",
+          "Name": "Tatamá",
+          "Category": "Municipio"
+        }
+      ]
+    },
+    {
+      "RegionId": "Region320000",
+      "Name": "Vichada",
+      "City": [
+        {
+          "CityId": "City320001",
+          "Name": "Puerto Carreño",
+          "Category": "Capital del Municipio"
+        },
+        {
+          "CityId": "City320002",
+          "Name": "La Primavera",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City320003",
+          "Name": "Santa Rosalia",
+          "Category": "Municipio"
+        },
+        {
+          "CityId": "City320004",
+          "Name": "Cumaribo",
+          "Category": "Municipio"
+        }
+      ]
+    }
+  ]
 }
