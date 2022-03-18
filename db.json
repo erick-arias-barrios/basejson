@@ -1,16 +1,4 @@
 {
-  "Gender": [
-    {
-      "GenderId": "Gender01",
-      "Name": "Masculino"
-    },
-    {
-      "GenderId": "Gender02",
-      "Name":"Femenino"
-    }
-  ]
-},
-{
   "MaritalStatus": [
     {
       "MaritalStatusId": "MaritalStatus01",
