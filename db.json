@@ -37,40 +37,4 @@
       "Name": "Unión libre"
     }
   ]
-},
-{
-  "CitizenIdentificationType": [
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType01",
-      "Name": "Cédula de ciudadanía"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType02",
-      "Name": "Tarjeta de extranjería"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType03",
-      "Name": "Pasaporte"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType04",
-      "Name": "Tarjeta diplomatica"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType05",
-      "Name": "Tarjeta de identidad"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType06",
-      "Name": "Registro civil"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType07",
-      "Name": "Mayor sin identificación"
-    },
-    {
-      "CitizenIdentificationTypeId": "CitizenIdentificationType08",
-      "Name": "Menor sin identificación"
-    }
-  ]
 }
