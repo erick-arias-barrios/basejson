@@ -1,42 +1,44 @@
-[
-  {
-    "BankId": "Bank01",
-    "Name": "Bancolombia"
-  },
-  {
-    "BankId": "Bank02",
-    "Name": "Banco Santander"
-  },
-  {
-    "BankId": "Bank03",
-    "Name": "Banco Colpatria"
-  },
-  {
-    "BankId": "Bank04",
-    "Name": "Banco BBVA"
-  },
-  {
-    "BankId": "Bank05",
-    "Name": "Banco de Occidente"
-  },
-  {
-    "BankId": "Bank06",
-    "Name": "Banco AV Villas"
-  },
-  {
-    "BankId": "Bank07",
-    "Name": "Banco Bogotá"
-  },
-  {
-    "BankId": "Bank08",
-    "Name": "Banco Popular"
-  },
-  {
-    "BankId": "Bank09",
-    "Name": "Banco Caja Social"
-  },
-  {
-    "BankId": "Bank10",
-    "Name": "Banco Davivienda"
-  }       
-]
+{
+  "Bank": [
+    {
+      "BankId": "Bank01",
+      "Name": "Bancolombia"
+    },
+    {
+      "BankId": "Bank02",
+      "Name": "Banco Santander"
+    },
+    {
+      "BankId": "Bank03",
+      "Name": "Banco Colpatria"
+    },
+    {
+      "BankId": "Bank04",
+      "Name": "Banco BBVA"
+    },
+    {
+      "BankId": "Bank05",
+      "Name": "Banco de Occidente"
+    },
+    {
+      "BankId": "Bank06",
+      "Name": "Banco AV Villas"
+    },
+    {
+      "BankId": "Bank07",
+      "Name": "Banco Bogotá"
+    },
+    {
+      "BankId": "Bank08",
+      "Name": "Banco Popular"
+    },
+    {
+      "BankId": "Bank09",
+      "Name": "Banco Caja Social"
+    },
+    {
+      "BankId": "Bank10",
+      "Name": "Banco Davivienda"
+    }       
+  ]
+}
